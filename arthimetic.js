@@ -1,0 +1,12 @@
+let x = 10;
+let y = 20;
+let sum = x+y;
+let sub = x-y;
+let mul = x*y;
+let div = x/y;
+let mod = x%y;
+console.log("The sum of x and y is: " + sum);
+console.log("The sub of x and y is: " + sub);
+console.log("The multiplication of x and y is: " + mul);
+console.log("The division of x and y is: " + div);
+console.log("The remainder of x and y is: " + mod);
